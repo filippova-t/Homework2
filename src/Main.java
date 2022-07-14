@@ -7,7 +7,7 @@ public class Main {
         long atoms = 9875432154812L;
         float kilometres = 0.16412f;
         double kilograms = 8.2369745681568;
-        boolean longWay = kilometres > 10000;
+        boolean budgetSurplus = rubles > 10000;
         char plus = 43;
 
         //Задание 2
